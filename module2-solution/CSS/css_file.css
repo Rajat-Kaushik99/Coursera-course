@@ -33,16 +33,18 @@ section>h2 {
 }
 
 section.white>h2 {
+    color: #e2e2e2;
     background-color: #76b8db;
 }
 
 section.black>h2 {
+    color: #e2e2e2;
     background-color: #283593;
 }
 
 section.grey>h2 {
     color: #e2e2e2;
-    background-color: #10328a;
+    background-color:#673ab7;
 }
 
 section>p {
